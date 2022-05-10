@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+li {
+  list-style: none;
+}
+
+body {
+  font-family: monospace;
+}
